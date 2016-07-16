@@ -1,3 +1,3 @@
 # Simple-games-in-C
 
-See demo in my youtube channel
+See demo on my youtube channel
